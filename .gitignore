@@ -5,6 +5,8 @@ build/
 dist/
 wheels/
 *.egg-info
-
+weather-retriever-mcp/server/__pycache__
 # Virtual environments
 .venv
+.env
+
